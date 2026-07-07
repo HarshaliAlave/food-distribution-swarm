@@ -6,6 +6,8 @@ EcoFeast is an agentic multi-agent system (built with **LangGraph** + **Streamli
 
 > An AI dispatcher that redistributes surplus food autonomously — matched, routed, and verified in real time, with zero manual coordination.
 
+**🔗 Live App: [ecofeast.streamlit.app](https://ecofeast.streamlit.app/)**
+
 ---
 
 ## ✨ Key Features
@@ -101,9 +103,9 @@ groq_api_key = st.secrets.get("GROQ_API_KEY") or os.getenv("GROQ_API_KEY")
 ## 📄 Project Docs
 
 Full context on the problem, solution, and business model is in [`project-docs/`](./project-docs):
-- **Lean Canvas** — `EcoFeast_Lean_Canvas.pdf`
-- **Concept Note** — `EcoFeast_Concept_Note.docx`
-- **Pitch Deck** — `EcoFeast.pptx`
+- **Lean Canvas** — [`EcoFeast_Lean_Canvas.pdf`](https://github.com/HarshaliAlave/food-distribution-swarm/blob/main/project-docs/EcoFeast_Lean_Canvas.pdf)
+- **Concept Note** — [`EcoFeast_Concept_Note.docx`](https://github.com/HarshaliAlave/food-distribution-swarm/blob/main/project-docs/EcoFeast_Concept_Note.docx)
+- **Pitch Deck** — [`EcoFeast.pptx`](https://github.com/HarshaliAlave/food-distribution-swarm/blob/main/project-docs/EcoFeast.pptx)
 
 ## 📜 License
 
@@ -113,5 +115,5 @@ This project is licensed under the **Apache License 2.0** — see [`LICENSE`](./
 
 ## 🔗 Links
 
-- **Live Demo:** _[Add demo link once deployed]_
-- **GitHub Repository:** _[This repo]_
+- **Live Demo:** [ecofeast.streamlit.app](https://ecofeast.streamlit.app/)
+- **GitHub Repository:** [github.com/HarshaliAlave/food-distribution-swarm](https://github.com/HarshaliAlave/food-distribution-swarm)
